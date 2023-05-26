@@ -1,2 +1,2 @@
-# printf
-A group project of Printf done by Anne and I
+A Printf project of two AlX students.
+Participants: Irene and Anne
